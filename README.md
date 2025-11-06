@@ -40,3 +40,6 @@ answering questions interactively on their mobile device.
 ## Figma
 
 https://www.figma.com/design/d6byUPvZr9EBDsNk3ka6HU/MultipleChoice_QuizlyApp-Design--Copy-?node-id=0-1&t=hnDhKASG6rAzzSVX-1
+
+<img width="1920" height="1080" alt="Screenshot 2025-11-06 084633" src="https://github.com/user-attachments/assets/ea013c07-8fb2-4c24-b97c-162946b4eca1" />
+
