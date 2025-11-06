@@ -25,3 +25,18 @@ answering questions interactively on their mobile device.
 
 ## Screenshots
 
+<img width="1920" height="1080" alt="Screenshot 2025-11-06 083652" src="https://github.com/user-attachments/assets/af4982ad-f318-4133-a375-7ff335c9e88f" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-06 083727" src="https://github.com/user-attachments/assets/cb280432-a237-42a4-99c7-6446cad49b67" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-06 083737" src="https://github.com/user-attachments/assets/354cad2a-d54d-4127-93ae-a415befcd75e" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-06 083749" src="https://github.com/user-attachments/assets/69f8546d-6845-42be-8910-95ed93d01ff5" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-06 083850" src="https://github.com/user-attachments/assets/3d19d661-06d7-491f-bc45-b6492651675e" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-06 083902" src="https://github.com/user-attachments/assets/acf3603d-0b6a-4b04-8b86-29d8f4195799" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-06 083924" src="https://github.com/user-attachments/assets/89306867-f3ad-4220-9cab-eb69437b3d9e" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-06 083940" src="https://github.com/user-attachments/assets/19d125e0-0041-411a-bf39-49693daba7e3" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-06 083956" src="https://github.com/user-attachments/assets/56a20cac-f2d4-4f98-9e1b-48fad39e17ec" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-06 084021" src="https://github.com/user-attachments/assets/f7c8876e-a5c2-4fd3-9f68-fd6d5130aebd" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-06 084043" src="https://github.com/user-attachments/assets/27ba4170-9837-49a6-be4e-733cefd94a62" />
+
+## Figma
+
+https://www.figma.com/design/d6byUPvZr9EBDsNk3ka6HU/MultipleChoice_QuizlyApp-Design--Copy-?node-id=0-1&t=hnDhKASG6rAzzSVX-1
